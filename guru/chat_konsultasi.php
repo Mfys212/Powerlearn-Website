@@ -1,0 +1,187 @@
+<?php $active_konsul = 'active'; include 'sidebar.php'; ?>
+
+    <section class="home rei">
+      <div class="row no-gutters">
+        <div class="col-12 col-lg-12 col-md-12 col-sm-12 card2">
+          <div class="card-body">
+
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 card-3 border rounded-pill d-flex align-items-center">
+              <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                
+                  <!-- Example single danger button -->
+                  <div class="dropdown">
+                    <button class="btn btn-sukses" type="button">
+                      Pertanyaaan Matematika
+                    </button>
+                  </div>
+  <!-- 
+                  <div class="dropdown">
+                    <button class="btn btn-sukses dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Pilih Mata Pelajaran
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                      <a class="dropdown-item" href="#">Matematika</a>
+                      <a class="dropdown-item" href="#">Bahasa Irlandia</a>
+                      <a class="dropdown-item" href="#">Bahasa Inggris</a>
+                    </div>
+                  </div> -->
+  
+                </div>
+              </div>
+            </div>
+
+            <div style="height: 600px;overflow-y: scroll;" class="yukenslekdis">
+              <div class="row pl-3">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12  mt-5" style="border-radius: 20px; background-color: #F6F8FD;">
+                  <div class="p-lg-3 p-md-3 p-sm-2">
+                    <p class="paragraph" style="color: #303b57da;">Assalamualaikum pak, Saya mau nanya bagai mana 
+                      cara internet bekerja </p>
+                    <div class="row">
+                      <div class="col-lg-3 offset-9 ">
+                        <span class="body-text mr-2">09:20</span>
+                        <i>
+                          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22 11.0818V12.0018C21.9988 14.1582 21.3005 16.2565 20.0093 17.9836C18.7182 19.7108 16.9033 20.9743 14.8354 21.5857C12.7674 22.1971 10.5573 22.1237 8.53447 21.3764C6.51168 20.6291 4.78465 19.2479 3.61096 17.4389C2.43727 15.6299 1.87979 13.4899 2.02168 11.3381C2.16356 9.18638 2.99721 7.13814 4.39828 5.49889C5.79935 3.85964 7.69279 2.7172 9.79619 2.24196C11.8996 1.76673 14.1003 1.98415 16.07 2.86182" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M22 4L12 14.01L9 11.01" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row pr-3">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12 offset-1 offset-lg-6 mt-5" style="border-radius: 20px; background-color: #7bfae9;">
+                  <div class="p-lg-3 p-md-3 p-sm-2">
+                    <p class="paragraph" style="color: #303b57da;">Jawaban anda telah terkirim harap tunggu
+                      jawaban dari guru pelajaran anda</p>
+                    <div class="row">
+                      <div class="col-lg-3 offset-9 ">
+                        <span class="body-text mr-2">09:20</span>
+                        <i>
+                          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22 11.0818V12.0018C21.9988 14.1582 21.3005 16.2565 20.0093 17.9836C18.7182 19.7108 16.9033 20.9743 14.8354 21.5857C12.7674 22.1971 10.5573 22.1237 8.53447 21.3764C6.51168 20.6291 4.78465 19.2479 3.61096 17.4389C2.43727 15.6299 1.87979 13.4899 2.02168 11.3381C2.16356 9.18638 2.99721 7.13814 4.39828 5.49889C5.79935 3.85964 7.69279 2.7172 9.79619 2.24196C11.8996 1.76673 14.1003 1.98415 16.07 2.86182" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M22 4L12 14.01L9 11.01" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row pr-3">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12 offset-1 offset-lg-6  mt-5" style="border-radius: 20px; background-color: #7bfae9;">
+                  <div class="p-lg-3 p-md-3 p-sm-2">
+                    <p class="paragraph" style="color: #303b57da;">J           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo ut turpis arcu viverra tristique. Semper pharetra rhoncus consectetur sem eu eget morbi volutpat. Sed pellentesque non amet, pellentesque tortor. Nisl aliquet nunc tortor lacinia commodo erat mattis nam. Amet, pretium, ornare porta et enim, feugiat.</p>
+                    <div class="row">
+                      <div class="col-lg-3 offset-9 ">
+                        <span class="body-text mr-2">09:20</span>
+                        <i>
+                          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22 11.0818V12.0018C21.9988 14.1582 21.3005 16.2565 20.0093 17.9836C18.7182 19.7108 16.9033 20.9743 14.8354 21.5857C12.7674 22.1971 10.5573 22.1237 8.53447 21.3764C6.51168 20.6291 4.78465 19.2479 3.61096 17.4389C2.43727 15.6299 1.87979 13.4899 2.02168 11.3381C2.16356 9.18638 2.99721 7.13814 4.39828 5.49889C5.79935 3.85964 7.69279 2.7172 9.79619 2.24196C11.8996 1.76673 14.1003 1.98415 16.07 2.86182" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M22 4L12 14.01L9 11.01" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row pr-3">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12 offset-1 offset-lg-6  mt-5" style="border-radius: 20px; background-color: #7bfae9;">
+                  <div class="p-lg-3 p-md-3 p-sm-2">
+                    <p class="paragraph" style="color: #303b57da;">J           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo ut turpis arcu viverra tristique. Semper pharetra rhoncus consectetur sem eu eget morbi volutpat. Sed pellentesque non amet, pellentesque tortor. Nisl aliquet nunc tortor lacinia commodo erat mattis nam. Amet, pretium, ornare porta et enim, feugiat.</p>
+                    <div class="row">
+                      <div class="col-lg-3 offset-9 ">
+                        <span class="body-text mr-2">09:20</span>
+                        <i>
+                          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22 11.0818V12.0018C21.9988 14.1582 21.3005 16.2565 20.0093 17.9836C18.7182 19.7108 16.9033 20.9743 14.8354 21.5857C12.7674 22.1971 10.5573 22.1237 8.53447 21.3764C6.51168 20.6291 4.78465 19.2479 3.61096 17.4389C2.43727 15.6299 1.87979 13.4899 2.02168 11.3381C2.16356 9.18638 2.99721 7.13814 4.39828 5.49889C5.79935 3.85964 7.69279 2.7172 9.79619 2.24196C11.8996 1.76673 14.1003 1.98415 16.07 2.86182" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M22 4L12 14.01L9 11.01" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row pr-3">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12 offset-1 offset-lg-6  mt-5" style="border-radius: 20px; background-color: #7bfae9;">
+                  <div class="p-lg-3 p-md-3 p-sm-2">
+                    <p class="paragraph" style="color: #303b57da;">J           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo ut turpis arcu viverra tristique. Semper pharetra rhoncus consectetur sem eu eget morbi volutpat. Sed pellentesque non amet, pellentesque tortor. Nisl aliquet nunc tortor lacinia commodo erat mattis nam. Amet, pretium, ornare porta et enim, feugiat.</p>
+                    <div class="row">
+                      <div class="col-lg-3 offset-9 ">
+                        <span class="body-text mr-2">09:20</span>
+                        <i>
+                          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22 11.0818V12.0018C21.9988 14.1582 21.3005 16.2565 20.0093 17.9836C18.7182 19.7108 16.9033 20.9743 14.8354 21.5857C12.7674 22.1971 10.5573 22.1237 8.53447 21.3764C6.51168 20.6291 4.78465 19.2479 3.61096 17.4389C2.43727 15.6299 1.87979 13.4899 2.02168 11.3381C2.16356 9.18638 2.99721 7.13814 4.39828 5.49889C5.79935 3.85964 7.69279 2.7172 9.79619 2.24196C11.8996 1.76673 14.1003 1.98415 16.07 2.86182" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            <path d="M22 4L12 14.01L9 11.01" stroke="#2992F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-9 col-md-9 col-sm-12 col-12 offset-lg-3 card-3 border rounded-pill d-flex align-items-center mt-5 fixed-bottom ">
+                <div class="col-lg-10 col-md-10 col-sm-8 col-8">
+                  
+                  <!-- Example single danger button -->
+                    <!-- <div class="dropdown">
+                      <button class="btn btn-sukses dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Pertanyaaan Matematika
+                      </button>
+                    </div> -->
+            
+                    <input type="text" class="form-control imput paragraph" style="background-color: #F6F8FD;" id="exampleInputPassword1" placeholder="Ketik Pesan" />
+            <!-- 
+                  <div class="dropdown">
+                    <button class="btn btn-sukses dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Pilih Mata Pelajaran
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                      <a class="dropdown-item" href="#">Matematika</a>
+                      <a class="dropdown-item" href="#">Bahasa Irlandia</a>
+                      <a class="dropdown-item" href="#">Bahasa Inggris</a>
+                    </div>
+                  </div> -->
+            
+                </div>
+            
+                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
+                  <button class="btn btn-sukses"><i >
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M22 2L11 13" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                      <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                      </svg>
+                      
+                  </i></button>
+                </div>
+            
+              </div>
+
+            </div>
+
+            
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script> -->
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+  </body>
+</html>

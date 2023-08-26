@@ -1,0 +1,483 @@
+body {
+  font-family: "Poppins";
+  background-color: #f6f8fd;
+}
+
+.heading {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 70px;
+  /* identical to box height */
+
+  /* headinng */
+
+  color: #303b57;
+}
+.subheading {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 54px;
+
+  /* headinng */
+
+  color: #303b57;
+}
+.paragraph {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* body Text */
+
+  color: #b0b6c0;
+}
+
+.body-text {
+  /* body */
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  /* body Text */
+
+  color: #b0b6c0;
+}
+.subtitle {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 36px;
+  /* identical to box height */
+
+  /* headinng */
+
+  color: #303b57;
+}
+
+
+a .btn-primary {
+  background: linear-gradient(100.11deg, #2992f5 35.92%, #3179d0 126.97%);
+  align-items: center;
+  padding: 16px 32px;
+  border-radius: 30px;
+  font-weight: 500;
+  width: auto;
+  text-decoration: none;
+}
+
+a .btn-secondary {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 16px 32px;
+  border: none;
+  width: 260px;
+  height: 59px;
+  
+  background: #32d77c;
+  border-radius: 30px;
+}
+.navbar {
+  background-color: #f6f8fd;
+}
+.nav-item {
+  color: #171717;
+  margin-right: 10px;
+  font-weight: 500;
+}
+.nav-item.active a {
+  color: #f9b234 !important;
+  font-weight: 500;
+}
+
+/* All Section */
+.allsection{
+  padding: 80px 70px;
+}
+
+
+
+/* hero Section*/
+.hero {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 70px;
+  padding-right: 70px;
+  
+}
+
+
+.hero h1 {
+  padding-top: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+}
+.hero img {
+  background-repeat: no-repeat;
+  width: 90%;
+}
+
+@media (max-width: 600px) {
+  .hero h1{
+    padding-top: 80px;
+    font-size: 36px;
+  }
+ }
+
+
+/* Kelas Section */
+.kelas {
+  padding-bottom: 140px;
+}
+.kelas .card {
+  position: relative;
+  display: inline-block;
+  border: none;
+  background: #ffffff;
+  border-radius: 20px;
+  cursor: default;
+  border-radius: 20px;
+}
+
+.kelas .card .card-body{
+  padding: 50px;
+}
+
+
+.kelas .card-text {
+  color: #303B57;
+  font-family: poppins;
+  font-weight: 700;
+}
+
+@media (max-width: 600px) {
+  .kelas .card {
+    padding-top: 0px;
+  }
+ }
+
+@media (max-width: 600px) {
+  .kelas .card .card-body{
+    padding: 20px;
+  }
+  
+ }
+
+
+/* Benefit Section*/
+.benefit .card {
+  border-radius: 20px;
+  border: none;
+}
+
+.benefit .card .card-body{
+  padding: 30px 30px 50px 30px;
+}
+
+.benefit {
+  padding-bottom: 140px;
+}
+
+/* Carausel */
+.carousel {
+  padding-bottom: 100px;
+}
+
+.carousel img {
+  width: 650px;
+  height: 350px;  
+}
+
+.carousel-control-prev {
+  top: 180px;
+  left: 50px;
+  background-color: #ffffff;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.carousel-control-prev-icon {
+  color: #171717;
+}
+.carousel-control-next {
+  top: 180px;
+  right: 90px;
+  background-color: #ffffff;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.carousel-control-next-icon {
+  color: #171717;
+}
+
+@media (max-width: 600px) {
+
+
+  .allsection .caraosel h3{
+    font-size: 24px;
+  }
+
+  
+  .carousel img {
+    width: 650px;
+    height: 350px;  
+  }
+  
+}
+
+  @media (max-width: 600px) {
+    .carousel img {
+      max-width: 150px;
+      max-height: 80px;
+    }
+   }
+  
+  
+
+
+
+/* Cerita Section */
+.story,
+.test {
+  padding-bottom: 140px;
+}
+
+.story .card,
+.test .card {
+  border: none;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+@media (max-width: 600px) {
+  .test .subheading  {
+    font-size: 28px;
+  }
+ }
+
+.allsection .story .card-body{
+  padding: 36px 64px;
+}
+
+.allsection .test .card-body{
+  padding: 36px 64px;
+}
+
+.info {
+  padding-bottom: 140px;
+}
+.info .card-body1 {
+  width: 635px;
+  height: 352px;
+
+  /* blog */
+}
+.info .card-body1 img {
+  width: 675px;
+  height: 352px;
+
+  /* blog */
+}
+.info .card-body2 {
+  width: 320px;
+  height: 350px;
+}
+
+.allsection .info img {
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+}
+
+.info img {
+  background: linear-gradient(183.08deg, rgba(255, 255, 255, 0) 2.47%, #1c2cb7 97.45%);
+  border-radius: 20px;
+}
+
+@media (max-width: 1080px) {
+  .info{
+    width: 60%;
+  }
+}
+
+
+
+/* Footer Section */
+   /*footer*/
+
+   .footer {
+    background-color: #2992f5;
+  }
+
+   .futer{
+    padding: 30px 140px;
+}
+.col_white_amrc { color:#FFF;}
+footer { width:100%; background-color:#FD0101; min-height:250px; padding:10px 0px 25px 0px ;}
+.pt2 { padding-top:40px ; margin-bottom:20px ;}
+footer p { text-align: left; font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
+.mb10 { padding-bottom:15px ;}
+.footer_ul_amrc { margin:0px ; list-style-type:none ; font-size:14px; padding:0px 0px 10px 0px ; }
+.footer_ul_amrc li {padding:0px 0px 5px 0px;}
+.footer_ul_amrc li a{ color:rgb(252, 252, 252);}
+.footer_ul_amrc li a:hover{ color:#fff; text-decoration:none;}
+.fleft { float:left;}
+.padding-right { padding-right:10px; }
+
+.footer_ul2_amrc {margin:0px; list-style-type:none; padding:0px;}
+.footer_ul2_amrc li p { display:table; }
+.footer_ul2_amrc li a { color: #fff; }
+.footer_ul2_amrc li a:hover { text-decoration:none; color: #AFCFED; }
+.footer_ul2_amrc li i { margin-top:5px;}
+
+.bottom_border { border-bottom:1px solid #fff; padding-bottom:20px;}
+.foote_bottom_ul_amrc {
+    list-style-type:none;
+    padding:0px;
+    display:table;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+
+
+
+@media (max-width: 600px) {
+    .futer{
+        padding: 15px 15px;
+    }
+}
+
+
+
+@media (max-width: 1080px) {
+  .hero h1 {
+    font-size: 40px;
+  }
+  .img {
+    flex: 100%;
+    max-width: 480px;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .story .card,
+  .test .card {
+    line-height: 90px;
+  }
+  .image .details p {
+    font-size: 16px;
+  }
+
+  .more .read-more,
+  .more .icon-links a i {
+    font-size: 18px;
+  }
+}
+@media (max-width: 600px) {
+  .hero h1 {
+    font-size: 40px;
+  }
+  .image .details p {
+    font-size: 16px;
+  }
+  .jumbotron h4 {
+    font-size: 30px;
+  }
+}
+
+
+@media (max-width: 600px) {
+ .allsection {
+   padding: 30px 10px;
+ }
+}
+
+@media (max-width: 600px) {
+  .hero {
+    padding: 40px 10px;
+  }
+ }
+
+
+
+ @media (max-width: 600px) {
+  .story .card .card-body {
+    padding: 15px;
+  }
+ }
+
+ @media (max-width: 600px) {
+  .story .card  {
+    margin-top: 20px;
+  }
+ }
+
+ @media (max-width: 600px) {
+  .test .card .card-body {
+    padding: 15px;
+  }
+ }
+
+ @media (max-width: 600px) {
+  .test .card  {
+    margin-top: 20px;
+  }
+ }
+
+ @media (max-width: 600px) {
+  .kelas .card  {
+    width: 150px;
+    height: 100px;
+    padding-top: 0px;
+  }
+ }
+
+ @media (max-width: 600px) {
+  .kelas .card  {
+    width: 150px;
+    height: 100px;
+    padding-top: 0px;
+  }
+ }
+
+ @media (max-width: 600px) {
+  .kelas .subheading  {
+    font-size: 28px;
+  }
+ }
+
+
+ @media (max-width: 600px) {
+  .benefit .subheading  {
+    font-size: 28px;
+  }
+ }
+ 
+
+ @media (max-width: 600px) {
+  .story .subheading  {
+    font-size: 28px;
+  }
+ }
+
+
+
+
+

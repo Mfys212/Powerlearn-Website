@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.leftside,
+.rightside,
+.modal {
+    font-family: 'poppins';
+    height: 140vh;
+    width: 50%;
+    font-weight: medium;
+}
+
+.bayar_header h3 {
+    font-family: 'poppins';
+    font-weight: medium;
+}
+
+.bayar_header h6,
+.bayar_detail {
+    font-family: 'poppins';
+}
+
+
+.leftside {
+    background: #2992F5;
+}
+
+.leftside img{
+    float: left;
+}
+
+.rightside {
+    padding-top: 5rem;
+
+}
+
+.rightside .form-group {
+    border-radius: 3px !important;
+}
+
+.bttn-group {
+    border: none;
+}
+
+.form-check-label {
+    position: absolute;
+    right: 0;
+}
+
+.card-bayar .card {
+    border-radius: 0px;
+}
+
+/* .card-bayar .card { 
+border-radius: 30px;
+} */
+
+.modal .card,
+card-body {
+    border-radius: 50px;
+    width: 750px;
+    /* height: 10px; */
+}
+
+.modal .card,
+card-body card-text {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.modal .modal-content {
+    border-radius: 30px;
+}
+
+
+/* Button Dark */
+
+.btn-primary {
+    background: linear-gradient(100.11deg, #2992f5 35.92%, #3179d0 126.97%);
+    align-items: center;
+    padding: 16px 32px;
+    border-radius: 30px;
+    font-weight: 500;
+    width: auto;
+  }
+
+  /* teks */
+
+  .tekss {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 36px;
+    /* identical to box height */
+  
+    /* headinng */
+  
+    color: #303b57;
+  }
+
+  .teks_tebel{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 36px;
+    /* identical to box height */
+  
+    /* headinng */
+  
+    color: #303b57;
+  }
+
+  /* Form */
+
+  .form-control{
+      background-color: #F6F8FD;
+  }
